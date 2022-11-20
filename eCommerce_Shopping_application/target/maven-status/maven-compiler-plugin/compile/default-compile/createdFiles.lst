@@ -1,0 +1,7 @@
+com\mvc\pojo\base.class
+com\mvc\pojo\Computer.class
+com\mvc\controller\ShoppingController.class
+META-INF\spring.components
+com\mvc\pojo\Book.class
+com\mvc\pojo\Music.class
+com\mvc\controller\ProductTypeController.class
